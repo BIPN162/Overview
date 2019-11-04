@@ -35,3 +35,5 @@ If you need accommodations for this course due to a disability, please contact t
 ### This course, and the work it entails, is for you
 So, you won’t benefit if others do your work. Cases of academic dishonesty or cheating will be first handled by me, and then by the Academic Integrity Office. If you become aware of cheating in this class, you can anonymously report it: https://academicintegrity.ucsd.edu/
 
+## Course Schedule
+Coming soon. :)
