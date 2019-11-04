@@ -1,3 +1,5 @@
+# <i>Tentative</i> syllabus
+
 <b>Course Description</b>: Project-based course in which students will use computational notebooks to perform exploratory data analyses and to test hypotheses in large neuroscience datasets, including the differences between unique neuron types, leveraging text mining of the neuroscience literature, and human neuroimaging analyses.
 
 ### Students will be able to:
