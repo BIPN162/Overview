@@ -19,9 +19,9 @@ Final scores will be converted to letter grades, where A=100-90%, B=89-80%, C=79
 
 ## Course Resources
 There is no official textbook for this course. Instead, we’ll be relying on several online resources:
-* Whirlwind Tour of Python: https://github.com/jakevdp/WhirlwindTourOfPython/ 
-* <a href="https://jakevdp.github.io/PythonDataScienceHandbook/>Python Data Science Handbook</a> -- this book is available free online or in print.
-* Neural Data Science: https://www.sciencedirect.com/book/9780128040430/neural-data-science
+* <a href="https://github.com/jakevdp/WhirlwindTourOfPython/ ">Whirlwind Tour of Python</a>
+* <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a> -- this book is available free online or in print.
+* <a href="https://www.sciencedirect.com/book/9780128040430/neural-data-science">Neural Data Science</a>
 
 ## Course Philosophy
 ### A note on our course’s environment
