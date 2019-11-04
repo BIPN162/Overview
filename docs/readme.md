@@ -12,8 +12,8 @@
 * In-class work & participation (20%): This is a small seminar, and we will be actively working through materials during lecture. You are expected to attend lectures.
 * Assignments (45%): Weekly take-home assignments will support your progression through the course topics and will directly relate to the larger class projects. While most of these are problem sets, others are small writing assignments.
 * Projects (35%). Includes the project proposal, code, and deliverables.
-** The first project (15%) will ask you to investigate a specific cell type in the brain, combining information across electrophysiology, gene expression, visual responses, and activity. 
-** In the second, slightly bigger project (20%) you’ll choose one brain region in humans and integrate three different datasets of your choosing to address the function of that brain region and identify possible links between genes, circuits, and behavior. 
+     * The first project (15%) will ask you to investigate a specific cell type in the brain, combining information across electrophysiology, gene expression, visual responses, and activity. 
+     * In the second, slightly bigger project (20%) you’ll choose one brain region in humans and integrate three different datasets of your choosing to address the function of that brain region and identify possible links between genes, circuits, and behavior. 
 
 Most assignments will be submitted through the DataHub (http://datahub.ucsd.edu). We will be using Canvas (http://canvas.ucsd.edu) to manage grades. Problem sets and projects will lose -10% for each day they are late.
 
