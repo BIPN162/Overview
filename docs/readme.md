@@ -42,7 +42,7 @@ Request a schedule for a specific quarter by emailing ajuavine@ucsd.edu.
 
 Weeks 1-3: Intro to Data Science, Programming fundamentals, object-oriented programming, and scientific computing packages
 
-Weeks 4-7: Introduction to various data sets, including multiple <a href="https://portal.brain-map.org/">Allen Brain Institute Datasets</a>, Neurosynth, and Human Brain Project data
+Weeks 4-7: Introduction to various data sets, including multiple <a href="https://portal.brain-map.org/">Allen Institute for Brain Science datasets</a>, Neurosynth, and Human Brain Project data
 
 Weeks 8-9: Additional uses of coding in neuroscience, including dimensionality reduction & signal processing.
 
